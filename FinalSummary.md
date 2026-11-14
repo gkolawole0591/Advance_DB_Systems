@@ -30,7 +30,7 @@ I used order_events for the case's event documents. MongoDB inserted 2 sample ev
 
 ## Repository and evidence
 
-https://github.com/gkolawole0591/Kolawole_Gabriel_301930591
+https://github.com/gkolawole0591/Advance_DB_Systems
 
 The portfolio folders contain the SQL and JavaScript, explanations, query plans, result tables and screenshots.
 
