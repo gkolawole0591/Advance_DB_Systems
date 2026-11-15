@@ -10,7 +10,7 @@ My case study is Kasiro - An E-Commerce System. I designed the database for cust
 
 I organised the relational design into 4 tables. Primary keys identify records, foreign keys preserve the links, and checks enforce the stated business rules. An order line quantity must be greater than zero. The normalisation examples show the sample data at 1NF, 2NF and 3NF. All 30 deliberately invalid inserts were rejected without changing the valid sample rows.
 
-![Kasiro - An E-Commerce System ER diagram](images/Kolawole_Gabriel_301930591_ERDiagram.png)
+![Kasiro - An E-Commerce System ER diagram](portfolio-1-database-design/screenshots/ERDiagram.png)
 
 Figure 1. Tables, keys and relationships. PK: primary key; FK: foreign key; UK: unique value.
 
